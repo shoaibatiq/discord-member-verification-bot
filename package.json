@@ -1,0 +1,22 @@
+{
+  "name": "discordverificationbot",
+  "version": "1.0.0",
+  "description": "Discord Verification Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "firebase": "^9.8.4",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.7.7"
+  }
+}
