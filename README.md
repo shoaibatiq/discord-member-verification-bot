@@ -24,8 +24,8 @@ This bot utilizes `discord.js` and  `firebase` to create a member verification s
 <img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(35).png" />
 <img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(36).png" />
 <img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(37).png" />
-<img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(38).png" />
 <img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(39).png" />
+<img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(38).png" />
 <img src="https://raw.githubusercontent.com/shoaibatiq/discord-member-verification-bot/master/Screenshots/Screenshot%20(40).png" />
 
 ---
